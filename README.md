@@ -1,3 +1,3 @@
-# Web App starter kit for Hackathons
+# Simple Web App starter kit for Hackathons
 
-A web app starter kit for hackathoners
+A simple web app starter kit for hackathoners
